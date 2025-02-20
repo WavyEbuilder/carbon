@@ -1,3 +1,4 @@
+amd64 hardened-musl-llvm-selinux stable
 amd64 hardened-musl-llvm-selinux-desktop stable
 amd64 hardened-musl-llvm-selinux-gnome stable
 amd64 hardened-musl-llvm-selinux-plasma stable
